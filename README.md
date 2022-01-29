@@ -1,1 +1,1 @@
-# Landing-Page-Project
+# Project: Landing Page
