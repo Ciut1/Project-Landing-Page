@@ -37,6 +37,7 @@ a {
 
 #placeholder {
     display: flex;
+    max-width: 500px;
 }
 
 .content-2 {
@@ -44,12 +45,26 @@ a {
 }
 
 .information {
-    max-height: 150px;
-    max-width: 400px;
+    text-align: center;
 }
 
 .content-2-box {
+    text-align: center;
+
+}
+
+.poto {
+    width: 100px;
+    height: 100px;
+}
+
+.boxes {
+
+}
+
+.container-boxes {
     display: flex;
     align-items: center;
     justify-content: center;
+    gap: 50px;
 }
