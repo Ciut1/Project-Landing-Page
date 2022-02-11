@@ -143,6 +143,7 @@ button {
     display: flex;
     background-color: #3882f6;
     border-color: white;
+    margin-left: 200px;
 }
 
 .last-content-container {
